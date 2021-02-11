@@ -109,8 +109,6 @@ def getData():
             
             setYazar(tdvalues, row[0])
             insertText('['+str(count)+'] Saved : '+ tdvalues+'\n')
-            if getid is not None:
-                setSiteID(getid.group(0), row[0])
             db.commit()
         else:
             insertText('['+ str(count)+']' +row[0]+ ' not found\n',1)
