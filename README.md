@@ -4,9 +4,7 @@ bizimbitkiler.org.tr sitesinden excel listesinde yazılı olan bitkilerin yazar,
 -Aramanın yapılacağı kaynak liste list.xlsx adına olmalı ve sütunlar aşağıdaki gibi olmalıdır.
 
 +---------+------+-----+--------+---------+-----------+-------+-----------+---------+---------+
-
 | FAMILYA | CINS | TUR | ALTTUR | VARYETE | TURADI_TR | YAZAR | ENDEMIKMI | ELEMENT | SITE_ID |
-
 +---------+------+-----+--------+---------+-----------+-------+-----------+---------+---------+
 
 
